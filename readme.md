@@ -1,6 +1,8 @@
 # Trilha JS Developer - Pokedex
 
-Este projeto é uma Pokedex simples que permite navegar por uma lista de Pokémon. Ele busca dados da PokeAPI e os exibe de forma amigável.
+Este projeto é uma Pokedex simples que permite navegar por uma lista de 150 Pokémons de primeiro nível.
+
+Ele busca dados da PokeAPI e os exibe de forma amigável.
 
 ## Funcionalidades
 
