@@ -2,7 +2,7 @@
 
 Este projeto é uma Pokedex simples que permite navegar por uma lista de 150 Pokémons de primeiro nível.
 
-Ele busca dados da PokeAPI e os exibe de forma amigável.
+Ele busca dados da PokeAPI e os exibe de forma amigável: [https://lgjor.github.io/Pokedex/](https://lgjor.github.io/Pokedex/)
 
 ## Funcionalidades
 
